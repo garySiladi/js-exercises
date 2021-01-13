@@ -41,6 +41,6 @@ class User {
     }
   }
   
-  const user = new User("Ivan", "Maly", "990604/6722");
+  const user = new User("Ivan", "Maly", "805623/1234");
   
   console.log(user.checkId());
